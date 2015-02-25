@@ -52,26 +52,32 @@ d. Now we have both the top and bottom connection done. We are almost done, just
 e. just to see how our motor system works, lets pop in a wheel
 4) With both encoder sensors attached, we are now half way done with our assembly! The next thing we will do is pop on the wheels. You will notice that there are notches where the wheel connects. Just line them up with the motor and apply a little pressure to attach.
 a. When you rotate your wheel, you’ll see the encoder move along with it. The encoder sensor senses the movement of the wheel and , if programmed correctly, communicates with the microcontroller how fast and far the robot has moved.
-###5) Now let’s attach the caster to the lower plate. With the ball of the caster facing down, place the caster on top of the lower plate as shown. Now get the Philips Truss Screws and put them through the two holes. Now get two M4 nuts and secure the caster in place.
+###5) Now let’s attach the caster to the lower plate. 
+With the ball of the caster facing down, place the caster on top of the lower plate as shown. Now get the Philips Truss Screws and put them through the two holes. Now get two M4 nuts and secure the caster in place.
 a. The caster acts as a third wheel for the robot.
-###6) It’s time to attach the battery holder. Place the battery holder on top of the caster and line it up with the two holes shown. Take two Philips countersunk screws and attach them to the battery holder and secure them in with two M3 Nuts.
-###7) It’s time to solder on the wires to the motor. While your soldering iron is heating up, Take your shielded cable and unravel it a bit on both ends. You will notice that your cable contains two covered wires and a bare strand of wire. The covered wires are what we will be attaching to the motor. The naked wire will be attached to ground.
+###6) It’s time to attach the battery holder. 
+Place the battery holder on top of the caster and line it up with the two holes shown. Take two Philips countersunk screws and attach them to the battery holder and secure them in with two M3 Nuts.
+###7) It’s time to solder on the wires to the motor. 
+While your soldering iron is heating up, Take your shielded cable and unravel it a bit on both ends. You will notice that your cable contains two covered wires and a bare strand of wire. The covered wires are what we will be attaching to the motor. The naked wire will be attached to ground.
 a. On the back of your motor, you will notice two copper pieces with a hole in them. This is where you will be soldering your wire to.
 b. Prep the wires by stripping both ends and twisting the threads of each wire.
 c. Now get your soldering iron and solder the wires on.
 d. while you are soldering the colored wire to the motor, tuck in the ground wire into the shielding. The other end of the ground wire will be attached to ground
-###8) Ok so we are now finish with the setup for the lower plate. We will now attach the microcontroller to the upper plate.
+###8) Ok so we are now finish with the setup for the lower plate. 
+We will now attach the microcontroller to the upper plate.
 a. You will notice that the top plate has a multitude of holes. On the micro controller, you will see that it has four holes, each near the corners. Try to find at least 2 holes opposite each other so that the board is stable
 b. Take the yellow extensions and place them on the upper plate.
 c. Now take the Philips Flange Screw and screw the microcontroller onto the yellow extension
 d. Now take the M3 Nut and secure the yellow extension onto the upper plate.
 e. It is important to make sure that the board is suspended above the plate as screwing the board directly on the upper plate can lead to a malfunctioning board. You need to protect the connections on the bottom of the board.
-###9) Now it is time to attach the lower plate to the upper plate. There are many holes in the upper plate but if you look closely, you can see that 4 of them match up with the 4 holes on the lower plate.
+###9) Now it is time to attach the lower plate to the upper plate. 
+There are many holes in the upper plate but if you look closely, you can see that 4 of them match up with the 4 holes on the lower plate.
 a. Locate the corresponding screw holes on the upper plate to the lower one. Attach 4 philips flange screw to the plates.
 b. Grab the motor wire and attach them to the corresponding M1 and M2 screw terminals on the board
 c. Grab the battery wire and place them in the power clamp thing next to the M1 screw terminal
 d. Grab the two encoder sensor wires and attach them to the digital pins area. Be sure to line them up according to the color. Keep note of which digital pin you put this on.
-###10) We are finally done! You should now have a fully assembled robot. The next step is to do some testing using example code to ensure that the robot’s connections are all working. Happy tinkering!
+###10) We are finally done! You should now have a fully assembled robot. 
+The next step is to do some testing using example code to ensure that the robot’s connections are all working. Happy tinkering!
 Link to microcontroller manual : http://www.dfrobot.com/wiki/index.php?title=DFRduino_Romeo-All_in_one_Controller_V1.1%28SKU:DFR0004%29
 assembly manual for the robot frame is here:
 http://www.dfrobot.com/image/data/ROB0005/3PA%20InstructionManual%20V1.1.pdf
