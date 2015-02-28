@@ -1,6 +1,6 @@
 
 
-These are links that I found helpful through out the assembly of the robot. My group was assigned the bluetooth connection between two pies and these were the links I used during the process.
+These are links that Caio found helpful through out the assembly of the robot. His group was assigned the bluetooth connection between two pies and these were the links he used during the process.
 
 Bluetooth Connection:
 
