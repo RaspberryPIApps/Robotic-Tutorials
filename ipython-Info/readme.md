@@ -1,4 +1,4 @@
-### Intro
+#### Intro
 ipython has become very popular among Python community; most new books provide their code in that format. 
 Essentially, it is a great way to combine documentation in github's md (markdown) format and code. 
 You insert cells, declare them as markdown or code (other choices are headline levels - they probably
@@ -12,7 +12,7 @@ which provide tools for introspection (more on the data, variables, and function
 inline in the documentation. Use the right pointing filled arrow at the top to exeute the md or python code to see the
 result. You can include a copy of the results and discuss as you would in a manual. 
 
-### Anaconda
+#### Anaconda
 For that, you will need a ipython notebook enviroment. I downloaded anaconda from here: http://ipython.org/install.html
 Anaconda comes packaged with 195 packages. This list includes numpy, pandas, PIL, and matplotlib. You do not have 
 to install these using pip install; but the Python universe has many other packages which you will have to install - but
@@ -20,4 +20,4 @@ from the Scripts directory of anaconda, not Python27 which you may have from you
 anaconda supports Python 3.x also. There is a mini-anaconda version useful for smaller footprint devices such as Raspberry
 Pi. 
 
-### I have included my versions of some early examples of the above cited book -- so you can see a few more commands. 
+##### I have included my versions of some early examples of the above cited book -- so you can see a few more commands. 
